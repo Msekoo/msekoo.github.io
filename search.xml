@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[My First Blog]]></title>
-    <url>%2F2018%2F02%2F24%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[终于把博客搭建好了，一波n折，值得记录的一天！]]></content>
+<search> 
+  
+    
+    <entry>
+      <title>My First Blog</title>
+      <link href="/2018/02/24/hello-world/"/>
+      <content type="html"><![CDATA[<p>终于把博客搭建好了，一波n折，值得记录的一天！</p>]]></content>
+      
       <categories>
-        <category>Diary</category>
+          
+          <category> Diary </category>
+          
       </categories>
-      <tags>
-        <tag>碎碎念</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 碎碎念 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+  
+  
 </search>

@@ -97,3 +97,15 @@ feed:
   limit: 5
   hub: 
   content: 'true'
+
+#live2d:
+  #enable: true
+  #scriptFrom: local
+  #model: tororo
+    #use: live2d-widget-model-wanko
+  #display:
+   # position: right
+   # width: 150
+   # height: 300
+ # mobile:
+   # show: true
